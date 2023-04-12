@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/valsap1/Neo-Dent/pulls">
+    <img src="https://badgen.net/github/prs/valsap1/Neo-Dent" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/valsap1/Neo-Dent" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
